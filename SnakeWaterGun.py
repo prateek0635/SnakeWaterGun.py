@@ -27,7 +27,7 @@ def check(n,k):
 
 u=0
 c=0
-print("Welcome to this Snake Water and Gun game")
+print("Welcome to Snake Water and Gun game")
 name=input("Please enter your good name Please!!! ")
 time.sleep(1)  #this will sleep the game for 1 second So that it will feel like a game
 print(f"Welcome {name}")
